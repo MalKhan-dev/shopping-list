@@ -40,3 +40,9 @@ python -m unittest discover -v
 - `ui.py` — десять компонентов интерфейса и окно `ShoppingApp`
 - `main.py` — запуск приложения и запись отчёта
 - `tests/test_requirements.py` — тесты
+
+## Скриншоты
+
+![Главное окно приложения](screenshots/shopping-list.png)
+
+![Дополнительный скриншот приложения](screenshots/shopping-list2.png)
